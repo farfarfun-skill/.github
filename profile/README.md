@@ -1,6 +1,6 @@
 # FarFarFun Skill
 
-面向 AI 编码 Agent（Codex / Claude 等）的技能（Skill）**自研源头组织**。每个仓库聚焦一个治理域，把项目规范、发布流程、执行边界这些原本靠人工评审的规则，转化为 Agent 可以直接调用的、确定性的检查器和工作流。
+[farfarfun](https://github.com/farfarfun) 的 **AI Agent Skill 产品线**子组织，也是所有自研 Skill 的**源头**。每个仓库聚焦一个治理域，把项目规范、发布流程、执行边界这些原本靠人工评审的规则，转化为 Agent 可以直接调用的、确定性的检查器和工作流。
 
 这里是所有自研 Skill 的 source of truth——提 issue、提 PR、改规范都在本组织。想一次装一批 Skill（含社区热门项目），或者需要 Gitee 访问，去聚合镜像组织 [farfarfun-skills](https://github.com/farfarfun-skills)。
 
@@ -67,6 +67,8 @@ done
 | 国内网络访问 | [gitee.com/farfarfun-skills](https://gitee.com/farfarfun-skills) |
 
 ## 其他 farfarfun 组织
+
+farfarfun 是一主多子结构：新东西默认先在主组织孵化，等某个模块仓库攒多、功能完善后独立成子组织；一开始就确定会自成一条产品线的，直接建子组织。
 
 | 组织 | 产物 |
 | --- | --- |

@@ -72,7 +72,7 @@ done
 | --- | --- |
 | [farfarfun](https://github.com/farfarfun) | 通用 Python 工具链：`far*` 基础库 + `fun*` 领域库 |
 | [farfarfun-fundrive](https://github.com/farfarfun-fundrive) | 网盘 / 云存储：统一接口框架 + 各网盘驱动 |
-| [farfarfun-skills](https://github.com/farfarfun-skills) | Skill 聚合镜像：社区热门 fork + 本组织自研，每日同步到 Gitee |
+| [farfarfun-skills](https://github.com/farfarfun-skills) | Skill 聚合镜像：社区热门 fork + 本组织自研，每小时跟上游同步并镜像到 Gitee |
 | [farfarfun-utools](https://github.com/farfarfun-utools) | uTools 插件：AI 聊天、网址导航、两步验证码 |
 
 ## 联系

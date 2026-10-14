@@ -12,7 +12,7 @@
 
 | 仓库 | 定位 | 包含的 Skill | 适用场景 |
 | --- | --- | --- | --- |
-| [`project-manager`](https://github.com/farfarfun-skill/project-manager) | 项目全生命周期治理 | `project-manager`、`project-structure-governance`、`github-repo-standards` | 检查 PRD、设计、技术方案、测试、发布与复盘产物；审计仓库目录结构与命名；审计 README 结构与 GitHub Topics |
+| [`project-manager`](https://github.com/farfarfun-skill/project-manager) | 项目全生命周期治理 | `project-manager`、`project-structure-governance`、`github-repo-standards` | 检查 PRD、设计、技术方案、测试、发布与复盘产物；审计仓库目录结构与命名；审计默认分支、README 结构与 GitHub 描述/Topics |
 | [`service-governance`](https://github.com/farfarfun-skill/service-governance) | 服务工程规范 | `service-release-governance`、`bash-service-guide`、`submodule-workspace-governance`，以及由 `lang-spec-hub` 同步的 `python-development-standards`、`java-development-standards` | 约束服务须通过正式包发布并启动；统一 Bash 生命周期脚本；编排 `apps/` 下的多仓库子模块 |
 | [`lang-spec-hub`](https://github.com/farfarfun-skill/lang-spec-hub) | 多语言开发规范 | `python-development-standards`、`java-development-standards` | Python 与 Java 的代码实现与审查，优先遵循项目既有版本与工具链 |
 | [`paperclip-governance`](https://github.com/farfarfun-skill/paperclip-governance) | Paperclip 平台专属治理 | `isolate-paperclip-work`、`paperclip-task-coordinator` | 隔离 Paperclip 执行边界；按任务与 Agent 维度生成未完成工作报表 |

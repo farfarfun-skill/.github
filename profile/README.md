@@ -1,10 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/farfarfun/.github/master/brand/png/lockup-on-dark/skill-160.png">
-    <img src="https://raw.githubusercontent.com/farfarfun/.github/master/brand/png/lockup/skill-160.png"
-         height="80" alt="farfarfun-skill">
-  </picture>
+  <img src="https://raw.githubusercontent.com/farfarfun/.github/master/brand/png/mark/skill-128.png"
+       width="80" alt="farfarfun-skill">
 </p>
 
 # FarFarFun Skill

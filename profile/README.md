@@ -1,3 +1,12 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/farfarfun/.github/master/brand/png/lockup-on-dark/skill-160.png">
+    <img src="https://raw.githubusercontent.com/farfarfun/.github/master/brand/png/lockup/skill-160.png"
+         height="80" alt="farfarfun-skill">
+  </picture>
+</p>
+
 # FarFarFun Skill
 
 [farfarfun](https://github.com/farfarfun) 的 **AI Agent Skill 产品线**子组织，也是全部自研 Skill 的**源头**。各仓库分别聚焦一个治理域，将项目规范、发布流程与执行边界等原本依赖人工评审的规则，转化为 Agent 可直接调用的确定性检查器与工作流。
